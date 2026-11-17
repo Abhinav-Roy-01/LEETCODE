@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0605-can-place-flowers](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/1162-as-far-from-land-as-possible) |
 | [2126-destroying-asteroids](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/2126-destroying-asteroids) |
 ## Two Pointers
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0016-3sum-closest) |
+| [0977-squares-of-a-sorted-array](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/2126-destroying-asteroids) |
 ## Dynamic Programming
 |  |
