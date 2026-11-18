@@ -69,9 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
