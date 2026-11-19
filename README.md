@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/1162-as-far-from-land-as-possible) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0457-circular-array-loop) |
 ## Linked List
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/2211-count-collisions-on-a-road) |
+## Hash Table
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
