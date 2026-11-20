@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0016-3sum-closest) |
 | [0287-find-the-duplicate-number](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0457-circular-array-loop) |
+| [0463-island-perimeter](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/1162-as-far-from-land-as-possible) |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0463-island-perimeter) |
 | [1162-as-far-from-land-as-possible](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/1162-as-far-from-land-as-possible) |
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0463-island-perimeter) |
 | [1162-as-far-from-land-as-possible](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/1162-as-far-from-land-as-possible) |
 ## Greedy
 |  |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0457-circular-array-loop) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Abhinav-Roy-01/LEETCODE/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
